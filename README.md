@@ -17,3 +17,6 @@ Este é o resumo do proxecto da casa domótica de TIC:
 
 ![P4_Alejandro](https://github.com/alejandropzzz/domoticaalejandro/assets/171036163/5fc90cc6-2316-4265-812b-069979c429ed)
 _Código do Fluxo P4._
+
+![EsquemaConexions_bb(1)](https://github.com/alejandropzzz/domoticaalejandro/assets/171036163/47e1e608-a300-48e0-a9cf-1d199e23a814)
+_Esquema de Conexións da Placa ESP32_
