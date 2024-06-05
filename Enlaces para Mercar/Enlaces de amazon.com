@@ -1,7 +1,6 @@
 ESP32 https://www.amazon.es/KEYESTUDIO-Desarrollo-Compatible-Bluetooth-Arduino/dp/B0BHZ8H6LM/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1MCGB7IZI63UL&keywords=keyestudio+esp32+wrover&qid=1682315390&sprefix=keyestudio+esp32+wrover%2Caps%2C92&sr=8-1
+
 Raspberry pi 400: https://www.amazon.es/Raspberry-Modelo-Cortex-A72-1-50GHz-Bluetooth/dp/B0CJ4XHZ4G/ref=sr_1_1_sspa?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1ULLTESRMC617&dib=eyJ2IjoiMSJ9.IuNOKPIcoES4JZ8NOOeJ3NvhxhLPrQZmPMIEysE54WLj5cQ2CnZJ1TAR6has95-AHFMW7XjF5a8dWOHW4EZAvyeo4Xmtk6Fj0GjRgRhkPH-CoSiecRMqz5JCvcJYbfxNBUeMcaBYaR4fvd-0LFk28x6XO9G-oh_ay71IYRZ30qCjTwVHNkeJuXPkngLjwSkVsWE_iITAWRC6cIFU8gZqq31Q4lbscOQ23GR6QoTpbLIRNcPENAP_UDTVhT7wvZKAKvZyU0HPGAUgJBwNy9faqk_DoWIi_6fz5R2k-ok3wSk.AoL3tDrEU7ozJNRz026VRx7qtsVU4u6_9jqdXcws9F0&dib_tag=se&keywords=raspberry+pi+4&qid=1716896397&s=computers&sprefix=raspberry+pi+4%2Ccomputers%2C98&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
-
-
 
 DHT11: https://www.amazon.es/AZDelivery-KY-015-M%C3%B3dulo-temperatura-incluido/dp/B089W8DB5P/ref=sr_1_1_sspa?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3LP2MG7IXVATF&keywords=dht11&qid=1682315691&sprefix=dht11%2Caps%2C107&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&smid=A1X7QLRQH87QA3
 
@@ -13,9 +12,7 @@ botón: https://www.amazon.es/AZDelivery-pulsador-M%C3%B3dulo-Interruptor-Arduin
 
 relé:https://www.amazon.es/ARCELI-KY-019-M%C3%B3dulo-Shield-arduino/dp/B07BVXT1ZK/ref=sr_1_5?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=K2Y41VDAZUO0&dib=eyJ2IjoiMSJ9.aLr9rUAXO6XYld128fwZUAIR4z8v1ll7Qka3B8bqKkVWdVXx0eSJMs05Nq9xBvkdAzbkUHzQZHAZSf_tJ-RLd2Fp-l6eRoAFVwEnDYn7NuAY72Oe7cNBHuGmR26uONZ7x6l31zZHl_IHSlEwNqui4OwzpIMF4VI54uD4NIF44fNEp1rPSv-dA7Gu9nHPhV1t98iDeHucK4RvqzQx6pQCzO0CDIF3ZyzaBxOqCnUyN9iipo5RSAOP6_YBDcU5wo5xFwLEb2KWyGOg_nG65yzLAz5xTL4KiIkjbOVoZQeztoQ.scmPjny6zcZmbvsGKMjmO7_bpfu4yg9JAASYkz7-wIU&dib_tag=se&keywords=rele+arduino&qid=1716896568&sprefix=rele+arduino%2Caps%2C113&sr=8-5
 
-
 Ventilador:https://www.amazon.es/GeeekPi-ventiladores-refrigeraci-silenciosos-ventilador/dp/B0CL41RG93/ref=sr_1_8?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=15PKYPZ2ATUNX&dib=eyJ2IjoiMSJ9.wLP8TSBDPq-cmPMs4d9OIon_OB0hNGVCHG-2__7GbCpJD4wYXB9gvddETVGqZ9ZjFPum3eSQ8IAag8pz0uhIPVpFHXKaSDimw79QCkVcMJeK2EGKqBfyAAQkY9ymRZeLHAMIY1AJM-PCFgD52sG3HZcILEjkHjbDLXC5BzQBoBR7HeVzlaF0aEmbXp73ipeGYP3p6Y4t4fP8TVKT0slTbw4a9-f7N9lZpbY_8YJvSMkpJbCGth5x3Nz9McDQ1IlQsipbdPvXwCkIDfUpuAsnEGpQJzpHIPiRgXDrffZsLnM.IoAhz3moP6dUwewQCooZdgB23yBtvLVxq_kwi4r62vs&dib_tag=se&keywords=ventilador+5v+raspberry&qid=1716896604&sprefix=ventilador+5v+raspberry%2Caps%2C104&sr=8-8
-
 
 LED RGB: https://www.amazon.es/BTF-LIGHTING-aleaci%C3%B3n-WS2812B-disipador-incorporado/dp/B088K8DVMQ/ref=sr_1_42?crid=PFSUIC77Z9BG&keywords=led+rgb+ws2812b&qid=1682316198&sprefix=led+rgb+ws%2Caps%2C107&sr=8-42
 
