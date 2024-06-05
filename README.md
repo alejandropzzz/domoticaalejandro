@@ -14,4 +14,5 @@ Este é o resumo do proxecto da casa domótica de TIC:
     - **VNC**: Tamén podemos acceder mediante VNC.
 5. **Prácticas con Node-RED e Arduino**: Realizamos prácticas con Node-RED e Arduino. Pronto subiremos algunhas capturas destas actividades.
 
+
 ![P4_Alejandro](https://github.com/alejandropzzz/domoticaalejandro/assets/171036163/5fc90cc6-2316-4265-812b-069979c429ed)
